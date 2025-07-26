@@ -1,0 +1,15 @@
+streamlit
+langchain
+faiss-cpu
+sentence-transformers
+transformers
+python-pptx
+PyPDF2
+python-docx
+pandas
+huggingface-hub
+gpt4all
+torch
+pymupdf
+unstructured[local-inference]>=0.7.10
+pandas

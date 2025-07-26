@@ -1,0 +1,15 @@
+# Ignore large files/folders
+llama_models/
+demo/demo_agentic.mp4
+
+# Ignore typical Python files/folders
+__pycache__/
+*.pyc
+.env
+
+# Other files/folders you want to ignore (optional)
+uploads/
+*.mp4
+*.gguf
+*.bin
+*.ckpt
